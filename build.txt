@@ -1,0 +1,3 @@
+displayName = Geki's Mod
+author = Geki
+version = 0.1

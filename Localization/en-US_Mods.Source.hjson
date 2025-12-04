@@ -1,0 +1,23 @@
+Items: {
+	Butterknife: {
+		DisplayName: Butterknife
+		Tooltip: ""
+	}
+
+	Crowbar: {
+		DisplayName: Crowbar
+		Tooltip: ""
+	}
+
+	SakuraWood: {
+		DisplayName: Sakura Wood
+		Tooltip: ""
+	}
+}
+
+NPCs: {
+	Headcrab.DisplayName: Headcrab
+	HeadcrabZombie.DisplayName: Headcrab Zombie
+}
+
+Projectiles.ButterkifeProjectile.DisplayName: Butterkife Projectile

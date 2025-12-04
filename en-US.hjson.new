@@ -1,0 +1,16 @@
+
+Mods: {
+	Source: {
+		NPCs: {
+			Headcrab.DisplayName: Headcrab
+			HeadcrabZombie.DisplayName: Headcrab Zombie
+		}
+
+		Items: {
+			Crowbar: {
+				DisplayName: Crowbar
+				Tooltip: "'I think you dropped this back in Black Mesa'"
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>Source</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Remove="Content\Items\Butterknife.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Content\Items\Butterknife.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\Music\" />
+    <Folder Include="Assets\Sounds\" />
+    <Folder Include="Assets\Textures\" />
+    <Folder Include="Content\Buffs\" />
+    <Folder Include="Content\Enemies\" />
+    <Folder Include="Content\Tiles\" />
+  </ItemGroup>
+</Project>
